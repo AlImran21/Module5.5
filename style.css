@@ -1,0 +1,23 @@
+#boy {
+    position: relative;
+    top: 70px;
+    z-index: 2;
+
+}
+#ring {
+    position: relative;
+    z-index: 1;
+}
+#water {
+    position: relative;
+    top: -90px;
+    right: 6px;
+}
+.first-section {
+    position: relative;
+}
+.div-centering {
+    position: absolute;
+    top: 150px;
+    transform: translateX(600px);
+}
